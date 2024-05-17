@@ -1,7 +1,7 @@
 
 # Introduction to Econometrics
 
-[NPTEL - Online Certification](https://internalapp.nptel.ac.in/B2C/exam_form/candidate_login/candidate_scores.php?courseid=noc24-ec06)
+[NPTEL - Online Certification]https://internalapp.nptel.ac.in/B2C/exam_form/candidate_login/candidate_scores.php?courseid=noc24-ec06)
 
 ## Course Overview
 
